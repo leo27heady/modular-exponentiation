@@ -1,0 +1,26 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.2</VERSION>
+ <DEVICE>Unknown</DEVICE>
+ <WORKING_DIR>C:\Users\leoni\Documents\lab2-1</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\leoni\Documents\lab2-1\lab2-1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\leoni\Documents\lab2-1\lab2-1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\leoni\Documents\lab2-1\lab2-1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\leoni\Documents\lab2-1\lab2-1.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <mass><FILE>C:\Users\leoni\Documents\lab2-1\lab2-1.asm</FILE><LINE>3</LINE></mass>
+  <BIG><FILE>C:\Users\leoni\Documents\lab2-1\lab2-1.asm</FILE><LINE>4</LINE></BIG>
+  <loop><FILE>C:\Users\leoni\Documents\lab2-1\lab2-1.asm</FILE><LINE>84</LINE></loop>
+  <MUL16x16><FILE>C:\Users\leoni\Documents\lab2-1\lab2-1.asm</FILE><LINE>119</LINE></MUL16x16>
+ </LABELS>
+</ASSEMBLER_INFO>

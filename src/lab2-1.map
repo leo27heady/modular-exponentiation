@@ -1,0 +1,20 @@
+
+AVRASM ver. 2.1.2  C:\Users\leoni\Documents\lab2-1\lab2-1.asm Thu Nov 19 11:45:04 2020
+
+
+DSEG mass         00000200
+DSEG BIG          00000208
+DEF  numA         r16
+DEF  powX         r17
+DEF  modP         r18
+DEF  zero         r30
+CSEG loop         0000000f
+CSEG MOD@MOD@102  00000014
+CSEG done@MOD@102 0000001b
+DEF  ANS1         r20
+DEF  ANS2         r21
+DEF  ANS3         r22
+DEF  ANS4         r23
+CSEG MUL16x16     00000037
+CSEG MOD@BIGMOD@226 00000051
+CSEG done@BIGMOD@226 0000005c
